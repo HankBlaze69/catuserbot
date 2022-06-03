@@ -1,3 +1,5 @@
+[![Deploy](https://cdn.scalingo.com/deploy/button.svg)](https://dashboard.scalingo.com/create/app?source=https://github.com/HankBlaze69/catuserbot)
+
 # CatUserbot
 A simple Telegram userbot based on Telethon .
 ![catuserbot logo](https://telegra.ph/file/4860c8e1a5a56d0616b79.png)
