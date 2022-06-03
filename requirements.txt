@@ -68,6 +68,9 @@ vcsi
 wand
 wget
 yt_dlp
+requests
+flask
+flask_restful
 
 git+https://github.com/sandy1709/Telethon@beta
 git+https://github.com/goldsmith/Wikipedia
