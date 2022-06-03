@@ -1,4 +1,4 @@
-[![Deploy](https://cdn.scalingo.com/deploy/button.svg)](https://dashboard.scalingo.com/create/app?source=https://github.com/HankBlaze69/nekopack/tree/master)
+[![Deploy](https://cdn.scalingo.com/deploy/button.svg)](https://dashboard.scalingo.com/create/app?source=https://github.com/HankBlaze69/catuserbot/blob/master)
 
 # CatUserbot
 A simple Telegram userbot based on Telethon .
